@@ -93,6 +93,7 @@ function App() {
               >
                 Delete User
               </button>
+              <button>Add Another User</button>
             </div>
           );
         })}

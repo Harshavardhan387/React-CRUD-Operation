@@ -94,6 +94,7 @@ function App() {
                 Delete User
               </button>
               <button>Add Another User</button>
+              <button>Add the next button here </button>
             </div>
           );
         })}

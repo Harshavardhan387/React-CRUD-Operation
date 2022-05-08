@@ -19,8 +19,6 @@ const userSlice = createSlice({
         }
       });
     },
-
-   
   },
 });
 

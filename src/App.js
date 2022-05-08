@@ -97,6 +97,7 @@ function App() {
               <button>Add the next button here </button>
               <h2>New feature added here...!</h2>
               <h3>Content for stashing in master branch</h3>
+              <h3>Content for once again stashing in master branch</h3>
             </div>
           );
         })}

@@ -96,6 +96,7 @@ function App() {
               <button>Add Another User</button>
               <button>Add the next button here </button>
               <h2>New feature added here...!</h2>
+              <h3>Content for stashing</h3>
             </div>
           );
         })}

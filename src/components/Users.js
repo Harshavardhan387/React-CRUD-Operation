@@ -19,13 +19,8 @@ const userSlice = createSlice({
         }
       });
     },
-    newUser: (state, action) => {
-      state.value.map((user) => {
-        if (user.id === action.payload.id) {
-          user.userName = action.payload.userName;
-        }
-      });
-    },
+
+   
   },
 });
 

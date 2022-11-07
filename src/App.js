@@ -93,7 +93,15 @@ function App() {
               >
                 Delete User
               </button>
+<<<<<<< HEAD
               {/* <button>Add Another User</button> */}
+=======
+              <button>Add Another User</button>
+              <button>Add the next button here </button>
+              <h2>New feature added here...!</h2>
+              <h3>Content for stashing in master branch</h3>
+              <h3>Content for once again stashing in master branch</h3>
+>>>>>>> c1caf53c00a680a0bb306aee10dc5cd78371ff67
             </div>
           );
         })}
